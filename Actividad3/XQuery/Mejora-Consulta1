@@ -1,0 +1,4 @@
+for $libro in doc("BD_libros.xml")//Libros/libro
+let $n:=$libro
+order by $n/Edicion
+return $n

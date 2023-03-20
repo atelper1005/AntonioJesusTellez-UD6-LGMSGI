@@ -1,0 +1,1 @@
+delete node doc ("BD_BailesdeSalon.xml")//Bailes/baile[@id=7]

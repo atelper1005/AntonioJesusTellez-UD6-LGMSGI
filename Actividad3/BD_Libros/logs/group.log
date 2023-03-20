@@ -1,0 +1,11 @@
+13:20:51.494  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_16\Desktop\1º DAW ANTONIO\Lenguaje de marcas\Tema 6\Actividad3\BD_Libros
+13:20:51.494  INFO  [LibraryManager]  100
+13:41:27.023  INFO  [LibraryManager] shutdown begins
+13:41:27.025  INFO  [LibraryManager]  closed library BD_libros
+13:41:27.025  INFO  [LibraryManager] shutdown complete.
+13:51:36.154  INFO  [LibraryManager] ---- starting up ----
+13:51:36.155  INFO  [LibraryManager]  100
+13:51:36.162  INFO  [LibraryManager] Library group ready
+14:00:48.169  INFO  [LibraryManager] shutdown begins
+14:00:48.170  INFO  [LibraryManager]  closed library BD_libros
+14:00:48.170  INFO  [LibraryManager] shutdown complete.

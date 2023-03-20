@@ -1,0 +1,11 @@
+12:31:57.679  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_16\Desktop\1º DAW ANTONIO\Lenguaje de marcas\Tema 6\Actividad2\GruposBailes
+12:31:57.679  INFO  [LibraryManager]  100
+13:19:52.270  INFO  [LibraryManager] shutdown begins
+13:19:52.272  INFO  [LibraryManager]  closed library BD_BailesdeSalon
+13:19:52.272  INFO  [LibraryManager] shutdown complete.
+13:41:27.032  INFO  [LibraryManager] ---- starting up ----
+13:41:27.032  INFO  [LibraryManager]  100
+13:41:27.046  INFO  [LibraryManager] Library group ready
+13:51:36.149  INFO  [LibraryManager] shutdown begins
+13:51:36.151  INFO  [LibraryManager]  closed library BD_BailesdeSalon
+13:51:36.151  INFO  [LibraryManager] shutdown complete.

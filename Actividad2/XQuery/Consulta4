@@ -1,0 +1,29 @@
+<html>
+<body>
+	<h1>Bailes ofertados</h1>
+		<table border="1">
+		<tr>
+		<th>Nombre Baile</th>
+		<th>Nombre profesor</th>
+		<th>Plazas Ofertadas</th>
+		</tr>
+{
+for $baile in doc("BD_BailesdeSalon.xml")//Bailes/baile
+let $nombre:=$baile/nombre
+let $profesor:=$baile/profesor
+let $plazas:=$baile/plazas
+return
+	<tr>
+	<td>{data($nombre)}</td>
+	<td>{data($profesor)}</td>
+	<td>{data($plazas)}</td>
+	</tr>
+}
+
+
+
+
+		</table>
+</body>
+
+</html>

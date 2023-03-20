@@ -1,0 +1,17 @@
+13:21:01.396  INFO  [lib BD_libros] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_16\Desktop\1º DAW ANTONIO\Lenguaje de marcas\Tema 6\Actividad3\BD_Libros\BD_libros
+13:21:01.397  INFO  [lib BD_libros] create storage in C:\Users\1DAW_2223_16\Desktop\1º DAW ANTONIO\Lenguaje de marcas\Tema 6\Actividad3\BD_Libros\BD_libros\contents.qdb
+13:21:01.398  INFO  [lib BD_libros] storage created
+13:21:01.414  INFO  [lib BD_libros] library creation done
+13:21:16.037  INFO  [lib BD_libros] commit start BD_libros (session 1)
+13:21:16.052  INFO  [lib BD_libros] commit 1 on BD_libros (session 1)
+13:21:16.068  INFO  [lib BD_libros] commit 1 done
+13:21:16.068  INFO  [lib BD_libros] commit end BD_libros (session 1) -> state: [ 1 ][ 1 2 ]
+13:21:16.068  INFO  [lib BD_libros] sweeper deleted 1/1 metadocs: 5
+13:41:27.024  INFO  [lib BD_libros] All sessions closed
+13:41:27.024  INFO  [lib BD_libros] Sweeper stopped
+13:41:27.025  INFO  [lib BD_libros] library closed 
+13:51:36.161  INFO  [lib BD_libros] Library opened by Qizx 4.4p1
+13:51:36.161  INFO  [lib BD_libros]  location C:\Users\1DAW_2223_16\Desktop\1º DAW ANTONIO\Lenguaje de marcas\Tema 6\Actividad3\BD_Libros\BD_libros
+13:51:36.161  INFO  [lib BD_libros]  document storage version=5, lastBId=13, BCount=12, maxA=502
+14:00:48.169  INFO  [lib BD_libros] All sessions closed
+14:00:48.170  INFO  [lib BD_libros] library closed 
