@@ -1,0 +1,18 @@
+insert node
+<libro>
+    <Cod_Libro>11</Cod_Libro>
+    <Titulo>Bruma Roja</Titulo>
+    <Editorial>Ediciones B</Editorial>
+    <Edicion>Si</Edicion>
+    <ISBN>315</ISBN>
+    <NumPaginas>576</NumPaginas>
+    <Autores>
+        <autor>
+            <Cod_Autor>11</Cod_Autor>
+            <Nombre>Pierre</Nombre>
+            <Apellidos>G. Sobrado</Apellidos>
+            <FechaNacimiento>15/10/1993</FechaNacimiento>
+        </autor>
+    </Autores>
+</libro>
+as last into doc("BD_libros.xml")//Libros

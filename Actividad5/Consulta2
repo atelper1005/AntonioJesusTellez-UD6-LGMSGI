@@ -1,0 +1,3 @@
+replace value of node doc("BD_libros.xml")//Libros/libro[11]/Edicion with "2",
+replace node doc("BD_libros.xml")//Libros/libro[11]/ISBN with <ISBN>9788466674874</ISBN>,
+replace node doc("BD_libros.xml")//Libros/libro[11]/Autores/autor/Nombre with <Nombre>Alicia</Nombre>

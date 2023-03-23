@@ -1,0 +1,5 @@
+07:48:24.579  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_16\Desktop\1º DAW ANTONIO\Lenguaje de marcas\Tema 6\Actividad5\XQuery
+07:48:24.580  INFO  [LibraryManager]  100
+07:56:10.283  INFO  [LibraryManager] shutdown begins
+07:56:10.287  INFO  [LibraryManager]  closed library BD_libros
+07:56:10.287  INFO  [LibraryManager] shutdown complete.
